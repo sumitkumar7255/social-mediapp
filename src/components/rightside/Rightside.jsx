@@ -10,63 +10,63 @@ const Rightside = () => {
                 <div className={classes.user}>
                     <img src={man} className={classes.profileUserImg} />
                     <div className={classes.userData}>
-                        <span>John Doe</span>
+                        <span>Abhishek China</span>
                         <div className={classes.onlineDot} />
                     </div>
                 </div>
                 <div className={classes.user}>
                     <img src={man} className={classes.profileUserImg} />
                     <div className={classes.userData}>
-                        <span>John Doe</span>
+                        <span>Abhishek China</span>
                         <div className={classes.onlineDot} />
                     </div>
                 </div>
                 <div className={classes.user}>
                     <img src={man} className={classes.profileUserImg} />
                     <div className={classes.userData}>
-                        <span>John Doe</span>
+                        <span>Abhishek China</span>
                         <div className={classes.onlineDot} />
                     </div>
                 </div>
                 <div className={classes.user}>
                     <img src={man} className={classes.profileUserImg} />
                     <div className={classes.userData}>
-                        <span>John Doe</span>
+                        <span>Abhishek China</span>
                         <div className={classes.onlineDot} />
                     </div>
                 </div>
                 <div className={classes.user}>
                     <img src={man} className={classes.profileUserImg} />
                     <div className={classes.userData}>
-                        <span>John Doe</span>
+                        <span>Abhishek China</span>
                         <div className={classes.onlineDot} />
                     </div>
                 </div>
                 <div className={classes.user}>
                     <img src={man} className={classes.profileUserImg} />
                     <div className={classes.userData}>
-                        <span>John Doe</span>
+                        <span>Abhishek China</span>
                         <div className={classes.onlineDot} />
                     </div>
                 </div>
                 <div className={classes.user}>
                     <img src={man} className={classes.profileUserImg} />
                     <div className={classes.userData}>
-                        <span>John Doe</span>
+                        <span>Abhishek China</span>
                         <div className={classes.onlineDot} />
                     </div>
                 </div>
                 <div className={classes.user}>
                     <img src={man} className={classes.profileUserImg} />
                     <div className={classes.userData}>
-                        <span>John Doe</span>
+                        <span>Abhishek China</span>
                         <div className={classes.onlineDot} />
                     </div>
                 </div>
                 <div className={classes.user}>
                     <img src={man} className={classes.profileUserImg} />
                     <div className={classes.userData}>
-                        <span>John Doe</span>
+                        <span>Abhishek China</span>
                         <div className={classes.onlineDot} />
                     </div>
                 </div>

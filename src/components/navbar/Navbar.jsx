@@ -9,7 +9,7 @@ const Navbar = () => {
     <div className={classes.container}>
         <div className={classes.wrapper}>
             <div className={classes.left}>
-                <Link to='/'>WebDevMania</Link>
+                <Link to='/'>Sumit</Link>
             </div>
             <div className={classes.center}>
                 <input type="text" placeholder='Search user...'/>

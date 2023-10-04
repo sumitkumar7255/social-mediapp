@@ -12,8 +12,8 @@ const ProfileCard = () => {
                         <img src={profileUserImg} className={classes.profileUserImg} />
                     </div>
                     <div className={classes.usernameAndCreatedAt}>
-                        <p><span>Username:</span> WebDevMania</p>
-                        <p><span>Created At:</span> 14th of January 2023</p>
+                        <p><span>Username:</span> Sumit</p>
+                        <p><span>Created At:</span> 4th of Oct 2023</p>
                     </div>
                 </div>
                     <hr />

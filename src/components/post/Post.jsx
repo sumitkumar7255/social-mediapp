@@ -15,8 +15,8 @@ const Post = () => {
               <div className={classes.topLeft}>
               <img src={profileUserImg} className={classes.profileUserImg}/>
                 <div className={classes.profileMetadata}>
-                    <span>WebDevMania</span>
-                    <span>3 hours ago</span>
+                    <span>Sumit</span>
+                    <span>4'Oct 2023</span>
                 </div>
               </div>
              <HiOutlineDotsVertical size={25}/>
@@ -39,42 +39,42 @@ const Post = () => {
                     <div className={classes.commentLeft}>
                       <img src={profileUserImg} className={classes.commentImg}/>
                       <div className={classes.commentData}>
-                        <span>WebDevMania</span>
+                        <span>Sumit</span>
                         <span className={classes.commentTimeago}>1 hour ago</span>
                       </div>
-                      <div className={classes.commentText}>Nice post WebDevMania!</div>
+                      <div className={classes.commentText}>Nice post Sumit!</div>
                     </div>
                     <div className={classes.commentRight}>
                         <AiOutlineHeart />
-                        <span>5 likes</span>
+                        <span>5k likes</span>
                     </div>
                 </div>
                 <div className={classes.comment}>
                     <div className={classes.commentLeft}>
                       <img src={profileUserImg} className={classes.commentImg}/>
                       <div className={classes.commentData}>
-                        <span>WebDevMania</span>
+                        <span>Sumit</span>
                         <span className={classes.commentTimeago}>1 hour ago</span>
                       </div>
-                      <div className={classes.commentText}>Nice post WebDevMania!</div>
+                      <div className={classes.commentText}>Nice post Sumit!</div>
                     </div>
                     <div className={classes.commentRight}>
                         <AiOutlineHeart />
-                        <span>5 likes</span>
+                        <span>50M likes</span>
                     </div>
                 </div>
                 <div className={classes.comment}>
                     <div className={classes.commentLeft}>
                       <img src={profileUserImg} className={classes.commentImg}/>
                       <div className={classes.commentData}>
-                        <span>WebDevMania</span>
+                        <span>Sumit</span>
                         <span className={classes.commentTimeago}>1 hour ago</span>
                       </div>
-                      <div className={classes.commentText}>Nice post WebDevMania!</div>
+                      <div className={classes.commentText}>Nice post Sumit!</div>
                     </div>
                     <div className={classes.commentRight}>
                         <AiOutlineHeart />
-                        <span>5 likes</span>
+                        <span>5k likes</span>
                     </div>
                 </div>
             </div>
